@@ -4,7 +4,7 @@ Bem-vindo ao ArtigosTech! Este repositório é um hub educacional que reúne art
 Criar um material didático completo e acessível para profissionais iniciantes na área de tecnologia que buscam um direcionamento claro e conteúdo de qualidade para acelerar seu aprendizado.
 
 🔍 Categorias de Conteúdo
-🤖 [IA & Veo](IA/IA%20&%20Veo)
+🤖 [IA & Veo](IA/README.md)
 
 **Quem pode usar**
 
